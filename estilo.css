@@ -21,4 +21,6 @@ main{
 .passo{
         display: none;
 }
-.
+.passo.ativo{
+    display: block;
+}
